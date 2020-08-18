@@ -1,0 +1,7 @@
+{
+  "target": "bmv2",
+  "p4info": "build/dash.p4.p4info.txt",
+  "bmv2_json": "build/dash.json",
+  "table_entries": [
+  ]
+}

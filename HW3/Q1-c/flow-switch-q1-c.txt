@@ -1,0 +1,57 @@
+{
+   "id": "0",
+   "flow": [
+      {
+         "id": "1",
+         "cookie": "0",
+         "cookie_mask": "0",
+         "flags": null,
+         "hard-timeout": "0",
+         "idle-timeout": "0",
+         "instructions": {
+            "instruction": {
+               "apply-actions": {
+                  "action": {
+                     "order": "0",
+                     "output-action": {
+                        "max-length": "0",
+                        "output-node-connector": "2"
+                     }
+                  }
+               },
+               "order": "0"
+            }
+         },
+         "match": {
+            "in-port": "1"
+         },
+         "priority": "500"
+      },
+      {
+         "id": "2",
+         "cookie": "0",
+         "cookie_mask": "0",
+         "flags": null,
+         "hard-timeout": "0",
+         "idle-timeout": "0",
+         "instructions": {
+            "instruction": {
+               "apply-actions": {
+                  "action": {
+                     "order": "0",
+                     "output-action": {
+                        "max-length": "0",
+                        "output-node-connector": "1"
+                     }
+                  }
+               },
+               "order": "0"
+            }
+         },
+         "match": {
+            "in-port": "2"
+         },
+         "priority": "500"
+      }
+   ]
+}
