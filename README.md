@@ -1,4 +1,4 @@
-# Software Defined Networking Course(Graduate)
+# Software-Defined Networking Course(Graduate)
 
 This is the repository for my solutions to SDN course's coumputer assignments at Sharif University of Technology. This course was taught by Dr. Khalaj at the Department of Electrical Engineering.
 
